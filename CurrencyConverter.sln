@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyConverter", "CurrencyConverter\CurrencyConverter.csproj", "{491A4B5B-A709-4459-9646-6729EE88C1DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyConverter.UnitTests", "CurrecyConverter.UnitTests\CurrencyConverter.UnitTests.csproj", "{971336B9-6CDD-4530-B3DB-231D061EF833}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD57B367-BA8E-4CB4-B169-AA0C20E195B7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{491A4B5B-A709-4459-9646-6729EE88C1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491A4B5B-A709-4459-9646-6729EE88C1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491A4B5B-A709-4459-9646-6729EE88C1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491A4B5B-A709-4459-9646-6729EE88C1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971336B9-6CDD-4530-B3DB-231D061EF833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971336B9-6CDD-4530-B3DB-231D061EF833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971336B9-6CDD-4530-B3DB-231D061EF833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971336B9-6CDD-4530-B3DB-231D061EF833}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA2CD206-E927-42D8-AE11-DC42530B390B}
+	EndGlobalSection
+EndGlobal
